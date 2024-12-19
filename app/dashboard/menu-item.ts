@@ -32,7 +32,7 @@ const data = {
           },
           {
             title: "Listar",
-            url: "#",
+            url: "/dashboard/student/list",
           },
           {
             title: "Settings",
